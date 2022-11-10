@@ -42,6 +42,7 @@ body{
   }
   
   @media screen and (max-width: 600px) {
+    min-width: 360px;
     ul li {float: none;}
     .logo {float: none;}
   }
@@ -214,6 +215,5 @@ body{
   }
   
   .footer-grid p {
-    margin: 10px 0;
-  }
-  
+    margin: 10px 0;
+  } 
